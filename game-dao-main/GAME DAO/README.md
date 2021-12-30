@@ -1,6 +1,6 @@
-# Merit Circle DAO
+# GAME DAO
 
-Merit Circle DAO smart contracts.
+GAME DAO smart contracts.
 
 ## Usage
 
