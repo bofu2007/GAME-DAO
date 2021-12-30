@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Introducing GAME DAO](README.md)
+* [GAME DAO - $GAME](game-dao-usdgame.md)
+* [Technical documentation](technical-documentation.md)
+* [DAO structure](dao-structure.md)
+* [Roadmap](roadmap.md)
+* [FAQ](faq.md)
+* [Governance](governance.md)
+* [Games](games/README.md)
+  * [Axie Infinity](games/axie-infinity.md)
+* [Token distribution](token-distribution.md)
+* [Vesting](vesting.md)
+* [Proposal repository](proposal-repository.md)
+* [MainDAO](maindao.md)
