@@ -2,7 +2,7 @@
 
 ### &#x20;<a href="#how-can-i-get-a-scholarship" id="how-can-i-get-a-scholarship"></a>
 
-We handle everything related to scholarships in our Discord environment. To apply for a scholarship, [please join this server](https://discord.gg/meritcircle) and follow the instructions provided there.
+We handle everything related to scholarships in our Telegram environment. To apply for a scholarship, [please join this server](https://t.me/game\_dao) and follow the instructions provided there.
 
 Our managers are working really hard to onboard as many scholars as possible.
 
